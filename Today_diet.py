@@ -2,14 +2,14 @@
 # 2. Some kind of quizzes to decide what diet is good for the user
 
 # To-do list:
-# 1. Read and write from txt files
-# 2. Display menu
+# 1. Add write methods
+# 2. Use github
 
 project_folder = "Project_03"
 chosen_diet_str = ""
 
 # Choose a diet for today
-option_string =""" 
+diet_options_str =""" 
 Types of meals:
                         Protein             Carb            Fat
 Mixed Meal              30%                 40%             30%
@@ -17,7 +17,7 @@ Paleo Meal              40%                 20%             40%
 Low-carb Meal           40%                 10%             50%
 Ketogenic Meal          20%                 5%              75%
 """
-print(option_string)
+print(diet_options_str)
 
 class diet:
 
@@ -46,17 +46,18 @@ class diet:
         print(self.cons)
     
     def write_meals(self):
-        print("Example breakfast of {diet}".format(diet = self.diet))
+        print("Example breakfasts of {diet}".format(diet = self.diet))
         print(self.ex_breakfast)
-        print("Example lunch of {diet}".format(diet = self.diet))
+        print("Example lunches of {diet}".format(diet = self.diet))
         print(self.ex_lunch)
-        print("Example dinner of {diet}".format(diet = self.diet))
+        print("Example dinners of {diet}".format(diet = self.diet))
         print(self.ex_dinner)
-        print("Example snack of {diet}".format(diet = self.diet))
+        print("Example snacks of {diet}".format(diet = self.diet))
         print(self.snack)
 
 
 def get_diet_info(project_folder, diet_type):
+    path = ""
     if diet_type == 1:
         path = project_folder + "\\Mixed_diet.txt"
         chosen_diet_str = "Mixed diet"
@@ -80,12 +81,43 @@ def organize_diet_info(info_string):
     divide_string = info_string.split('~')
     return divide_string
 
-diet_type = 4
-info_str, chosen_diet_str = get_diet_info(project_folder, diet_type)
-print(organize_diet_info(info_str))
-print(chosen_diet_str)
-chosen_diet = diet(chosen_diet_str, organize_diet_info(info_str))
+diet_info_list ="""
+1. History
+2. Definition
+3. Pros and cons
+4. Meals
+5. Go back
+"""
 
+while True:
+    # Asking for the diet
+    diet_type = int(input("1 - Mixed diet,\n2 - Paleo diet,\n3 - Low carb diet,\n4 - Ketogenic diet .\n5- Exit\nEnter 1 or 2 or 3 or 4 to start explore: "))
+    # Getting info from .txt file about the diet
+    info_str, chosen_diet_str = get_diet_info(project_folder, diet_type)
+    # Organize the diet info by creating a class
+    chosen_diet = diet(chosen_diet_str, organize_diet_info(info_str))
+
+    item_num = 0
+    print("\n")
+    print(chosen_diet_str + " in deep")
+    while item_num < 5:
+        print(diet_info_list)
+        item_num = int(input("Enter a number: "))
+        if item_num == 1:
+            chosen_diet.write_history()
+        elif item_num == 2:
+            chosen_diet.write_definition()
+        elif item_num == 3:
+            chosen_diet.write_pros_and_cons()
+        elif item_num == 4:
+            chosen_diet.write_meals()
+        elif item_num == 5:
+            print("\n")
+            break
+
+    if not(diet_type >= 1 and diet_type <= 4):
+        print("Exiting program")
+        break 
 
 print(chosen_diet.write_history())
 print(chosen_diet.write_definition())
