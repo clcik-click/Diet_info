@@ -3,7 +3,6 @@
 
 # To-do list:
 # 1. Add write methods
-# 2. Use github
 
 project_folder = "Project_03"
 chosen_diet_str = ""
