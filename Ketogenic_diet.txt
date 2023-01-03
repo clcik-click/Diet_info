@@ -1,31 +1,226 @@
 ~ History 
 
-falalal
+Epilepsy is an ancient brain phenomenon, known to medicine thousands of years ago. To manage it, our Neolithic ancestors drilled holes in one another’s skulls, perhaps trying to let the bad stuff out—a practice known as trepanation.
+
+Around 400 BCE, the ancient Greek doctor Hippocrates observed a man who had seizures for five days. On the sixth day, he noted, as the patient “abstained from everything, both gruel and drink, there were no further seizures.”
+
+About 1,400 years later, in 1000 CE, the famous Persian physician Avicenna coined the term “epilepsy.” The word comes from the ancient Greek verb epilambanein (to seize or attack). Avicenna speculated that “overfeeding” might be a risk factor for epilepsy.
+
+By 1911, a pair of Parisian doctors were trying fasting as a treatment for children with epilepsy, and in the United States, physical culturist Bernarr McFadden was claiming that fasting for three days to three weeks could cure anything.
+
+Despite not having the tools and insight of modern neuroscience, these and other people who explored fasting as dietary prescriptions for neurological disorders were on to something.
+
+Ketogenic diet: The origin story
+
+In 1921, two things happened.
+
+    One: Endocrinology researcher Rollin Woodyatt noted that both starvation and a diet that was very low in carbohydrates and very high in fat triggered the same chemical environment. In both situations, the body began to use ketones—instead of glucose—as a primary energy source.
+
+    Two: Dr. Russell Wilder wondered…
+
+Could a person get the health benefits of fasting without actually fasting?
+
+He and other doctors at the Mayo Clinic experimented with what Wilder called the “ketogenic diet” during the early 1920s. Not only did children with epilepsy seem to improve overall with this type of diet, they seemed to think and behave better as well.
+
+Proven by several notable medical authorities, a ketogenic diet as a treatment for childhood epilepsy found its way into medical textbooks by around 1940, and stayed there throughout the 20th century.
+
+Nowadays, aging, contact sports, and modern warfare present us with new populations of people whose brains might benefit from a ketogenic diet:
+
+    - people with neurodegenerative disorders (such as multiple sclerosis, Parkinson’s, and Alzheimer’s)
+
+    - people with traumatic brain injury (TBI) from events such as explosions or concussions
+
+Bodybuilders discover the ketogenic diet.
+
+There was another group of people who became curious about ketogenic diets sometime in the 1980s and 1990s: bodybuilders and physique athletes.
+
+These folks were less concerned about brain health or longevity. They wanted to be ripped.
+
+The ketogenic diet seemed like a magic bullet: a way to eat butter, bacon, and cream, and still get abs.
+
+Today, the ketogenic diet is new again.
+
+Physique- and performance-conscious people, as well as people looking to maximize lifespan and life quality, have rediscovered this old-school dietary paradigm and are wondering:
+
+    Could a ketogenic diet help me perform better?
+
+    Could a ketogenic diet help me live longer?
+
+    Could a ketogenic diet help me look great on the beach?
 
 ~ Definition
 
-falalal
+The ketogenic diet—often shortened to “keto”—is very low in carbohydrates, and very high in fat.
+
+It’s also highly restrictive, with a low to moderate protein intake.
+
+Many people (mistakenly) consider any diet low in carbohydrates a keto diet. But that’s not quite right.
+
+A ketogenic diet typically consists of about 70 to 90 percent of calories from fat, with the remaining 10 to 30 percent of calories coming from a mix of carbohydrates and protein combined.
+
+As the diet’s gotten more popular though, several keto and low-carb diet “variants” have emerged, each with their own macronutrient ranges.
+
+What is ketosis?
+To fully understand a ketogenic diet, you need to know what ketosis is.
+
+Ketosis describes a state in which your body is using ketones—instead of carbohydrates—as its primary fuel source.
+
+So what, then, are ketones?
+
+Ketones describe a group of compounds with a specific chemical structure, and our body can make them through a complex biochemical pathway.
+
+We can use two types of ketones as energy sources, acetoacetate and D-β-hydroxybutyrate. (The β sign means “beta.”)
+
+The term “ketone” was actually coined around 1850 by German chemist Leopold Gmelin. (See? Not as new as you’d think!)
+
+The pathway to ketosis
+When the conditions are right (for instance, during starvation or fasting, or when our carb intake is very low):
+
+Our body releases fatty acids from our stored body fat.
+These fatty acids enter other cells.
+Fatty acids are combined with co-enzyme A to form acetyl-CoA chains.
+These chains move into the mitochondria (our cells’ energy factories).
+The chains are broken down into acetyl-CoA units by a sequence of reactions known as β-oxidation.
+Chemical magic happens.
+Acetyl-CoA forms your friends the ketones: acetoacetate and β-hydroxybutyrate, along with acetone (the same smelly stuff in your nail polish remover).
+Ketones are released by the liver into the blood.
+Almost any cell that needs energy can grab it from these circulating ketones. Our brain will be the greediest for these nummy little molecules.
+(FYI, supplementing with ketones can also induce ketosis, but in this article, we’ll only cover ketosis when it’s the result of dietary changes.)
+
+Some people like to think of ketones (a.k.a. ketone bodies) as the fourth energy source for humans, in addition to carbohydrates, fats, and proteins.
+
+That’s technically true, but the alcohol in booze (aka ethanol) can also be used for energy.
+
+Um, so, just because we can metabolize something doesn’t always mean we should.
+
+The ketogenic diet: Ketosis without fasting
+
+Most people frown on starving children with epilepsy, so a ketogenic diet is a clever workaround:
+
+By cutting off the body’s carbohydrate (aka glucose) supply, but providing energy and nutrients in the form of fat and a little protein, we can get the same effects as straight-up starvation: ketosis.
+
+As with starvation, it usually takes some time to get into ketosis once we stop eating carbs and ketogenesis gets going.
+
+    Let’s take an even deeper look: How quickly can you get into ketosis?
+
+Interestingly, how quickly ketosis happens varies by age and species.
+
+Other mammals don’t seem to go into ketosis nearly as quickly as humans. (Your friendly neighborhood hibernating bear or squirrel who doesn’t eat for weeks to months at a time? No ketosis.)
+
+Human babies, on the other hand, go into ketosis within a few hours of not eating.
+
+This may have to do with our energy-hungry human brains. About 20 percent of our overall energy intake is devoted to feeding our brains. And although bears and squirrels are clever enough to get into the garbage, they don’t have brains as large as we do.
+
+Ketogenesis is a human backup system that provides enough energy (via ketone bodies) to the ol’ noggin in times of starvation.
+
+And it may be this particular evolutionary adaptation—which perhaps emerged to keep said noggin fed when food was scarce—that also enables the brain-benefiting effects of the ketogenic diet.
 
 ~ Pros 
 
-falalal
+Keto and diabetes
+The keto diet appears to have beneficial effects on type 2 diabetes, which is characterized by high blood sugar and insulin resistance.
+
+Chronic high blood sugar can damage healthy cells, including nerves, the retina of the eyes, and even organs like the kidneys.
+
+The keto diet has been shown to lower hemoglobin A1c (a marker of average blood sugar levels) in people with type 2 diabetes and those with metabolic disease.
+
+Keto and high cholesterol
+Research on individuals categorized as “obese” shows that the keto diet can raise HDL (“good”) cholesterol, as well as lower LDL (“bad”) cholesterol and triglycerides. (However, this may be the result of overall weight loss, rather than any special lipid-balancing effects of the diet itself.)
+
+But in relatively lean and healthy people, a keto diet has been shown to raise LDL cholesterol—typically a risk factor for chronic disease.
+
+And in people with epilepsy, those following a ketogenic diet for over a year were more likely to develop hyperlipidemia, which is when there’s too much fat (as cholesterol and/or triglycerides) in the blood.
+
+So, while keto may help improve metabolic disease for some, for others—especially people who are already lean and relatively healthy—it can worsen cholesterol and other markers for chronic disease.
+
+Keto and hypertension (high blood pressure)
+Any diet that helps someone move into a healthier weight category can help normalize blood pressure.
+
+And there’s some research that indicates the keto diet may help lower blood pressure in some people, too. However, it’s not clear if blood pressure is lowering due to the diet itself, or due to other factors, like weight loss.
+
+Verdict: Keto may improve metabolic disease in some cases, particularly if high blood sugar is a concern. But it should be done under medical supervision, and probably with the use of other therapeutic tools such as medication or other well-established health procedures. 
+
+Could help people with neurodegeneration and brain injuries
+We know ketosis for epilepsy is a win—can ketosis help other types of brain illnesses and injuries?
+
+Recent research suggests that many brain disorders (Alzheimer’s, Parkinson’s, and other neurodegenerative diseases) are related to metabolic disorders such as diabetes, obesity, and non-alcoholic fatty liver disease (NAFLD).
+
+These metabolic and neurodegenerative diseases show common features: oxidative stress, mitochondrial dysfunction, and chronic inflammation. In fact, Alzheimer’s is now often described as “diabetes of the brain,” or “Type 3 diabetes.”
+
+The presence of ketones also seems to improve outcomes from traumatic brain injury (TBI). However, so far, most of these studies have been done on rats.
+
+Still, based on what we’ve seen with epilepsy and rat studies, chances are good that ketosis may be a low-risk treatment to improve brain health.
+
+Verdict: A keto diet probably can’t hurt, and (with medical supervision) might help people with neurodegeneration and/or mild to moderate brain injury. 
+
+Possible (but unlikely) benefits of a keto diet
+Might improve athletic performance
+Ketosis means you’re using fat and ketones as primary energy sources, instead of glucose from glycogen stores.
+
+Why might that give athletes an advantage?
+
+Well, if you aren’t using glycogen as a primary fuel source, you also avoid glycogen depletion (a.k.a. “bonking,” or hitting the wall). You have more sustained energy, and you don’t need to take in carbs as you compete. This could potentially benefit athletes who don’t perform at higher intensities, like ultra-endurance athletes.
+
+But there’s one problem: With fat and ketones as fuel, you’re not going to go as fast as you can when using glucose and carbohydrates.
+
+And, at higher intensities, athletes on keto may consume MORE oxygen at a given workload, meaning they’re less efficient.
+
+There aren’t many studies that compare real life athletic performance in ketogenic and high-carb diets. But among the ones that have, the results are very mixed.
+
+So, while some high-level endurance athletes seem to thrive on ketogenic diets, that doesn’t mean keto is a good idea for all athletes. And for athletes who perform at high intensities, keto is not likely to provide an advantage.
+
+Verdict: There are some intriguing possibilities, particularly for endurance performance, but to date there’s very little evidence the ketogenic diet improves overall athletic performance.
 
 ~ Cons
 
-falalal
+    A ketogenic diet isn’t high in protein.
+Protein is more or less the same in the mixed, Paleo, and low-carb meals.
+
+Ketogenic diets, on the other hand, include less protein—usually closer to 15 or 20 percent of total daily intake.
+
+    A ketogenic diet is extremely low in carbs.
+The mixed plate suggests high-fiber, slow-digesting carbohydrates, such as whole grains, beans and legumes, fruits, and starchy vegetables.
+
+The Paleo plate generally contains fewer carbohydrates, as it eliminates grains, beans, and legumes.
+
+The “low carb” plate will have fewer carbohydrates than the first two, but still has a small amount, likely from lots of vegetables.
+
+The ketogenic meal shoots for near-zero carbs. The exact amount varies, but some sources suggest around 10-15 grams of carbs a day. (That’s about one fist-sized portion of cooked carrots, or about 10-15 grapes. For the whole day.) Other sources suggest less than 30 grams of carbs a day, or for someone doing a non-medical keto diet, as high as around 50 grams per day.
+
+    A ketogenic diet is very high in fat.
+The mixed plate suggests about 1-2 thumb-sized portions of fat-dense foods (like nuts, cheese, avocado, and olive oil) per meal, depending on body size, activity level, and goals. We might call that a moderate-fat diet.
+
+The Paleo and low-carb plates are roughly similar, with a bit more fat.
+
+We might call those two high-fat diets.
+
+The ketogenic meal, on the other hand, is very high-fat—even up to 90 percent of total energy intake. That means if you’re eating a 500-calorie spinach and mushroom salad, you get about 2 thumb-sized pieces of chicken breast on top, and then about 3-4 glugs of olive oil on top… Yum yum!
 
 ~ Breakfast Examples
 
-falalal
+Keto breakfast examples:
+Sausage with 2 eggs and cheese, sauteed mushrooms and onions
+Sauteed Brussels sprouts, 2 eggs, and bacon
+Smoothie with coconut milk, almond butter, avocado, spinach, and small scoop of unsweetened protein powder
 
 ~ Lunch Examples
 
-fallll
+Keto lunch examples:
+Spinach salad with small portion of grilled chicken, nuts and seeds, and an oil-based dressing
+Lettuce wraps with shrimp, toasted coconut, and green onions
+Avocado topped with taco meat, cheese, and sour cream
 
 ~ Dinner Examples
 
-asdf
+Keto dinner examples:
+Palm-sized piece of salmon, side of broccoli, both cooked in olive oil, and an avocado
+Beef tenderloin topped with garlic butter, with a side of cooked kale
+Broiled chicken thigh and artichokes topped with cheese
 
 ~ Snack
 
-asdf
+Keto snack examples:
+Celery with peanut butter
+Ham and cheese roll-ups
+Nuts and seeds with cucumber slices
+Occasional handful of berries

@@ -1,8 +1,13 @@
-# 1. Diet information
-# 2. Some kind of quizzes to decide what diet is good for the user
+# Diet information
+# The program should ask users some question about what they want for their health
+# Ex: losing weight quick, maintaining weight, gaining weight 
+# Ex: feeling good all year around, looking good for a short amount of time
+# Then decide for the customer or the customer can decide what diet they want to look into. 
 
 # To-do list:
-# 1. Add write methods
+# 1. Add quetions that decide what diet would be best for the user
+# 2. 
+# 3.
 
 project_folder = "Project_03"
 chosen_diet_str = ""
@@ -16,6 +21,15 @@ Paleo Meal              40%                 20%             40%
 Low-carb Meal           40%                 10%             50%
 Ketogenic Meal          20%                 5%              75%
 """
+
+diet_info_list ="""
+1. History
+2. Definition
+3. Pros and cons
+4. Meals
+5. Go back
+"""
+
 print(diet_options_str)
 
 class diet:
@@ -79,14 +93,6 @@ def get_diet_info(project_folder, diet_type):
 def organize_diet_info(info_string):
     divide_string = info_string.split('~')
     return divide_string
-
-diet_info_list ="""
-1. History
-2. Definition
-3. Pros and cons
-4. Meals
-5. Go back
-"""
 
 while True:
     # Asking for the diet
