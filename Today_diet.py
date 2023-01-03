@@ -1,12 +1,8 @@
 # Diet information
-# The program should ask users some question about what they want for their health
-# Ex: losing weight quick, maintaining weight, gaining weight 
-# Ex: feeling good all year around, looking good for a short amount of time
-# Then decide for the customer or the customer can decide what diet they want to look into. 
 
 # To-do list:
-# 1. Add quetions that decide what diet would be best for the user
-# 2. 
+# 1. Add information into txt files
+# 2. Intergrate questions and modify answers
 # 3.
 
 project_folder = "Project_03"
@@ -31,6 +27,43 @@ diet_info_list ="""
 """
 
 print(diet_options_str)
+
+def ask_questions():
+    
+    question_1 ="""
+    Do you want to 
+    1. lose weight quick"
+    2. maintain weight
+    3. gain weight
+    """
+
+    question_2 ="""
+    Do you want to 
+    1. feel good all year around"
+    2. look good for a short amount of time
+    """
+    answer_1 = int(input(question_1))
+    answer_2 = int(input(question_2))
+    
+    if question_1 == 1 and question_2 == 1:
+        print("Scenario #1")
+        pass
+    elif question_1 == 2 and question_2 == 1:
+        print("Scenario #2")
+        pass
+    elif question_1 == 3 and question_2 == 1:
+        print("Scenario #3")
+        pass
+    elif question_1 == 1 and question_2 == 2:
+        print("Scenario #4")
+        pass
+    elif question_1 == 2 and question_2 == 2:
+        print("Scenario #5")
+        pass
+    elif question_1 == 3 and question_2 == 2:
+        print("Scenario #6")
+        pass
+
 
 class diet:
 
