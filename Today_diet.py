@@ -2,7 +2,7 @@
 
 # To-do list:
 # 1. Add information into txt files
-# 2. Intergrate questions and modify answers
+# 2. Modify answers
 # 3.
 
 project_folder = "Project_03"
@@ -32,7 +32,7 @@ def ask_questions():
     
     question_1 ="""
     Do you want to 
-    1. lose weight quick"
+    1. lose weight quick
     2. maintain weight
     3. gain weight
     """
@@ -42,27 +42,24 @@ def ask_questions():
     1. feel good all year around"
     2. look good for a short amount of time
     """
-    answer_1 = int(input(question_1))
-    answer_2 = int(input(question_2))
+    print(question_1)
+    answer_1 = int(input("Enter a number: "))
+    print(question_2)
+    answer_2 = int(input("Enter a number: "))
+    print("\n")
     
-    if question_1 == 1 and question_2 == 1:
-        print("Scenario #1")
-        pass
-    elif question_1 == 2 and question_2 == 1:
-        print("Scenario #2")
-        pass
-    elif question_1 == 3 and question_2 == 1:
-        print("Scenario #3")
-        pass
-    elif question_1 == 1 and question_2 == 2:
-        print("Scenario #4")
-        pass
-    elif question_1 == 2 and question_2 == 2:
-        print("Scenario #5")
-        pass
-    elif question_1 == 3 and question_2 == 2:
-        print("Scenario #6")
-        pass
+    if answer_1 == 1 and answer_2 == 1:
+        print("Scenario #1 - Recommending ----- diet with -----")  
+    elif answer_1 == 2 and answer_2 == 1:
+        print("Scenario #2 - Recommending ----- diet with -----")
+    elif answer_1 == 3 and answer_2 == 1:
+        print("Scenario #3 - Recommending ----- diet with -----")
+    elif answer_1 == 1 and answer_2 == 2:
+        print("Scenario #4 - Recommending ----- diet with -----")
+    elif answer_1 == 2 and answer_2 == 2:
+        print("Scenario #5 - Recommending ----- diet with -----")
+    elif answer_1 == 3 and answer_2 == 2:
+        print("Scenario #6 - Recommending ----- diet with -----")
 
 
 class diet:
@@ -128,8 +125,11 @@ def organize_diet_info(info_string):
     return divide_string
 
 while True:
+    # Asking general questions
+    ask_questions()
+    print("\n")
     # Asking for the diet
-    diet_type = int(input("1 - Mixed diet,\n2 - Paleo diet,\n3 - Low carb diet,\n4 - Ketogenic diet .\n5- Exit\nEnter 1 or 2 or 3 or 4 to start explore: "))
+    diet_type = int(input("1 - Mixed diet,\n2 - Paleo diet,\n3 - Low carb diet,\n4 - Ketogenic diet .\n5 - Exit\n\nEnter 1 or 2 or 3 or 4 to start explore: "))
     # Getting info from .txt file about the diet
     info_str, chosen_diet_str = get_diet_info(project_folder, diet_type)
     # Organize the diet info by creating a class
@@ -157,7 +157,3 @@ while True:
         print("Exiting program")
         break 
 
-print(chosen_diet.write_history())
-print(chosen_diet.write_definition())
-print(chosen_diet.write_pros_and_cons())
-print(chosen_diet.write_meals())
