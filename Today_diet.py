@@ -124,6 +124,10 @@ def organize_diet_info(info_string):
     divide_string = info_string.split('~')
     return divide_string
 
+def give_feedback():
+    feedback = input("On the scale of 1 - 10 how likely are you to recommend this program to others?")
+    return "I would recommend this to " + feedback + " out of 10 people I meet."
+
 while True:
     # Asking general questions
     ask_questions()
@@ -151,7 +155,7 @@ while True:
             chosen_diet.write_meals()
         elif item_num == 5:
             print("\n")
-            # give_feedback()
+            give_feedback()
             print("\n")
             print("Thank you for using the app. I hope it was helpful fatty")
             print("\n")            
