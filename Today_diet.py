@@ -151,6 +151,10 @@ while True:
             chosen_diet.write_meals()
         elif item_num == 5:
             print("\n")
+            # give_feedback()
+            print("\n")
+            print("Thank you for using the app. I hope it was helpful fatty")
+            print("\n")            
             break
 
     if not(diet_type >= 1 and diet_type <= 4):
